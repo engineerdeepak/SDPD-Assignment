@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string-array name="Username">
+        <item>DeepakAgarw</item>
+        <item>BitsPilani</item>
+        <item>Developer</item>
+    </string-array>
+    <string-array name="Password">
+        <item>password</item>
+        <item>12345</item>
+        <item>Feb2016</item>
+    </string-array>  
+</resources>
